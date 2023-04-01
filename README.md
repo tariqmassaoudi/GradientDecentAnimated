@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:720/0*GqEabk9paWf3y2JF" alt="Logo" width="600" height="400">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*UckZvoQeAxsFnA9PafTrdA.png" alt="Logo" width="600" height="400">
 
   <h3 align="center">Gradient Decent Animated</h3>
 
